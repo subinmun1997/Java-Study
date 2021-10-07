@@ -1,6 +1,7 @@
 package HUFS_LAB;
 import java.util.Scanner;
 
+// lab 5.1
 public class Lab5_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
