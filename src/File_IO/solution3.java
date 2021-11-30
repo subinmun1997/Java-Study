@@ -12,7 +12,7 @@ public class solution3 {
             String mi = input.next();
             String lastName = input.next();
             int score = input.nextInt();
-            System.out.println(firstName + " " + mi + lastName + " " + score);
+            System.out.println(firstName + " " + mi + " " + lastName + " " + score);
         }
         input.close();
     }
